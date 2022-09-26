@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @exDeos
-- 👀 I’m interested in ... You
-- 🌱 I’m currently learning ... Myself
-- 💞️ I’m looking to collaborate on ... Ideas
-- 📫 How to reach me ... You can't yet
+Hello. I am exDeos.
 
-<!---
-exDeos/exDeos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The three things I like to build:
+1. Security
+1. Privacy
+1. Confidence
+
+Any ideas? I'd love to hear from you.
